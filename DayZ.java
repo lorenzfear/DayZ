@@ -121,13 +121,15 @@ public class DayZ
     public static final Item leeenfield = new ItemEnfield(3019).setIconCoord(4, 2).setItemName("leeenfield").setCreativeTab(DayZ.creativeTabDayZ);
     public static final Item glock17 = new ItemGlock17(3020).setIconCoord(2, 2).setItemName("glock17").setCreativeTab(DayZ.creativeTabDayZ);
     public static final Item dbshotgun = new ItemDbShotgun(3036).setIconCoord(0, 2).setItemName("doublebarrelshotgun").setCreativeTab(DayZ.creativeTabDayZ);
+    public static final Item m1911 = new ItemM1911(3043).setIconCoord(6, 2).setItemName("m1911").setCreativeTab(DayZ.creativeTabDayZ);
 
     public static final Item ak74uammo = new ItemAmmo(3021).setIconCoord(1, 0).setItemName("ak74uammo").setCreativeTab(DayZ.creativeTabDayZ);
     public static final Item makarovammo = new ItemAmmo(3022).setIconCoord(3, 0).setItemName("markovammo").setCreativeTab(DayZ.creativeTabDayZ);
     public static final Item remingtonammo = new ItemAmmo(3023).setIconCoord(5, 0).setItemName("remingtonammo").setCreativeTab(DayZ.creativeTabDayZ);
     public static final Item leeenfieldammo = new ItemAmmo(3024).setIconCoord(5, 2).setItemName("leeenfieldammo").setCreativeTab(DayZ.creativeTabDayZ);
     public static final Item glock17ammo = new ItemAmmo(3025).setIconCoord(3, 2).setItemName("glock17ammo").setCreativeTab(DayZ.creativeTabDayZ);
-	public static final Item dbshotgunammo = new ItemAmmo(3037).setIconCoord(1, 2).setItemName("dbshotgunammo").setCreativeTab(DayZ.creativeTabDayZ);
+    public static final Item dbshotgunammo = new ItemAmmo(3037).setIconCoord(1, 2).setItemName("dbshotgunammo").setCreativeTab(DayZ.creativeTabDayZ);
+    public static final Item m1911ammo = new ItemAmmo(3044).setIconCoord(0, 3).setItemName("m1911ammo").setCreativeTab(DayZ.creativeTabDayZ);
 
     public static final Item baseballbat = (new ItemWeaponMelee(3026, EnumToolMaterial.WOOD, 6)).setItemName("baseballbat").setIconCoord(0, 1).setCreativeTab(DayZ.creativeTabDayZ);
     public static final Item baseballbatnailed = (new ItemWeaponMelee(3027, EnumToolMaterial.WOOD, 8)).setItemName("baseballbatnailed").setIconCoord(1, 1).setCreativeTab(DayZ.creativeTabDayZ);
