@@ -193,7 +193,9 @@ public class CommonProxy implements IPlayerTracker
         LanguageRegistry.addName(DayZ.nails, "Nails"); 
         LanguageRegistry.addName(DayZ.grenade, "Grenade"); 
         LanguageRegistry.addName(DayZ.crowbar, "Crowbar"); 
-        LanguageRegistry.addName(DayZ.machete, "Machete"); 
+        LanguageRegistry.addName(DayZ.machete, "Machete");
+        LanguageRegistry.addName(DayZ.m1911, "M1911 Test");
+        LanguageRegistry.addName(DayZ.m1911ammo, ".45 ACP Round");
         
     /************* 						Recipes 							*************/
         
